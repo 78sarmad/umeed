@@ -8,7 +8,7 @@ A cross-platform app to help people with psychological stress. Built for https:/
 ### Key Features
 - Helpful Psychology Articles
 - Book Appointment
-- Audio Notes **(New)
+- Audio Notes **(New)**
 
 ### Languages / Frameworks
 - Flutter/Dart
