@@ -11,5 +11,5 @@ A cross-platform app to help people with psychological stress. Built for https:/
 - Audio Notes **(New)**
 
 ### Languages / Frameworks
-- Flutter/Dart
-- PHP & MySQL based APIs
+- App: Flutter/Dart
+- APIs: PHP & MySQL
