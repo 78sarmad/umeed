@@ -1,4 +1,7 @@
 # Umeed Mobile App
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/67017318/136563632-c48cb3c9-0f03-4961-b2b0-c9a26aea099d.gif" width="300" height="649" />
+</p>
 A cross-platform app to help people with psychological stress. Built for https://umeed.org.pk
 
 ### Key Features
@@ -9,7 +12,3 @@ A cross-platform app to help people with psychological stress. Built for https:/
 ### Languages / Frameworks
 - Flutter/Dart
 - PHP & MySQL based APIs
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/67017318/136563632-c48cb3c9-0f03-4961-b2b0-c9a26aea099d.gif" width="300" height="649" />
-</p>
